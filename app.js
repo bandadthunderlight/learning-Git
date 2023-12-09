@@ -1,0 +1,1 @@
+const mainMenu = [firstmenu, second, third]
